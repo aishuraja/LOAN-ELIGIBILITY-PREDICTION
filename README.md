@@ -11,12 +11,13 @@ Data Cleaning
 Feature engineering
 Model Training
 
+SCREENSHOTS:
+
 ![download](https://user-images.githubusercontent.com/65251355/183254285-f3f45665-98a5-4347-a812-b3bb0fd34801.png)
 
 
 
-It functions properly and meets all of the standards of bankers. This system computes the result correctly and precisely. It forecasts that the loan will be approved or could very precisely reject a loan applicant or customer.
 
 
-
-
+![download (1)](https://user-images.githubusercontent.com/65251355/183254631-925527c1-8993-4897-acc3-503afd4a2997.png)
+![download](https://user-images.githubusercontent.com/65251355/183254632-49d8ddd0-c30c-4696-8f62-a3d643760854.png)
